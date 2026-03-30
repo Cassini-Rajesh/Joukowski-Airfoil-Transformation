@@ -1,5 +1,8 @@
 # Joukowski Airfoil Transformation (MATLAB)
 
+## Code
+[View MATLAB source file](von_Mises_Project.m)
+
 ## Overview
 Developed a MATLAB simulation tool to generate airfoil geometries 
 via Joukowski transformations applied to circular cylinders in the 
